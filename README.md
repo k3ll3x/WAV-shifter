@@ -1,4 +1,12 @@
-		WAV SHIFTER
+#WAV SHIFTER
+
+#New Update:
+
+new modulations added now with a integer iterator, can add complex algorithms
+
+#TRY
+
+	t<<ch
 
 What this does is reading a wav file from folder called audio.wav and then it "modulates" that audio.wav into 
 new.wav, the modulation commands depends on the user entry.
