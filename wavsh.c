@@ -5,16 +5,16 @@
 int main(int argc, char * argv[]){
 	FILE *file = fopen(argv[1],"rb");
 	FILE *ofile = fopen("new.wav","wb");
-	int ch;
+	unsigned int ch;
 	while((ch=fgetc(file))!=EOF){
-		fprintf(ofile,"%u",$);
+		int t=0;
+		for(t;t<ch;t++){
+			/*putchar($);*/
+			fprintf(ofile,"%x",$);
+		}
 	}
 	fclose(file);
 	fclose(ofile);
-/*	int t=0;
-	for(t;;t++){
-		putchar($);
-	}*/
 
 	return 0;
 }
