@@ -1,10 +1,10 @@
-#WAV SHIFTER
+# WAV SHIFTER
 
-#New Update:
+# New Update:
 
 new modulations added now with a integer iterator, can add complex algorithms
 
-#TRY
+# TRY
 
 	t<<ch
 
