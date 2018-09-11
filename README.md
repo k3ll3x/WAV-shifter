@@ -33,7 +33,7 @@ example:
 	ch0xf
 	1<<ch
 
-Remember always tu use the variable ch, because ch is the readed char from audio.wav
+Remember always to use the variable ch, because ch is the readed char from audio.wav
 
 
 Enjoy Listening to new.wav
