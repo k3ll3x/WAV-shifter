@@ -1,3 +1,3 @@
 #!/bin/bash
-./a.out audio.oog &
+./a.out audio.wav &
 aplay new.wav
